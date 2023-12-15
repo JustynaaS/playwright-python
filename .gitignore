@@ -2,4 +2,4 @@
 /tests/__pycache__/
 /report.html
 /utils/secret_config.py
-*.env
+.env
