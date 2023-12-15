@@ -1,3 +1,5 @@
-.idea/
-tests/__pycache__/
-report.html
+/.idea/
+/tests/__pycache__/
+/report.html
+/utils/secret_config.py
+*.env
