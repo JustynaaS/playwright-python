@@ -4,7 +4,7 @@ from playwright.sync_api import expect
 import pytest
 import re
 
-PASSWORD = os.environ['PASSWORD']
+# PASSWORD = os.environ['PASSWORD']
 
 
 @pytest.mark.smoke
